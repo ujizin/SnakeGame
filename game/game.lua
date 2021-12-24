@@ -8,7 +8,7 @@ game.mode = {}
 game.mode.easy = {
     fruitSpeed = 0.001,
     hasWall = false,
-    grow = 1
+    grow = 2
 }
 
 game.mode.hard = {
