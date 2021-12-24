@@ -1,9 +1,9 @@
 # Snake Game
 
+Sample Snake Game made with Love2d Lua
+
 ![Snake Game](assets/preview/game.jpg)
 ![Menu game](assets/preview/menu.jpg)
-
-Sample Snake Game made with Love2d Lua
 
 ### TODO
 
@@ -15,7 +15,7 @@ Sample Snake Game made with Love2d Lua
 - [✔️] Add nenu
 - [✔️] Add pause menu
 - [✔️] Add modes easy & hard
-- [❌] Better spawn fruit randomly 
+- [❌] Better randomly spawn fruit 
 
 ## Control
 
